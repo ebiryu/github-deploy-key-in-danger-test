@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "danger": "danger"
+    "danger": "npx danger"
   },
   "devDependencies": {
     "danger": "^10.2.0"
